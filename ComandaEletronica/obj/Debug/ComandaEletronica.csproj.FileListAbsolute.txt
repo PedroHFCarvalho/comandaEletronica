@@ -1,0 +1,2 @@
+C:\Users\User\Desktop\ComandaEletronica\ComandaEletronica\bin\Debug\ComandaEletronica.exe.config
+F:\Modulo 3\C#\ComandaEletronica\ComandaEletronica\bin\Debug\ComandaEletronica.exe.config
